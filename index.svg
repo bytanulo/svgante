@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <rect
+      x = "25%"
+      y = "25%"
+      width  = "50%"
+      height = "50%"
+      stroke = "none"
+      fill = "purple" />
+    <text
+      x = "30%"
+      y = "45%"
+      width  = "40%"
+      height = "10%"
+      font-size = "3em"
+      stroke = "none"
+      fill = "black">
+        hello, world
+    </text>
+</svg>
